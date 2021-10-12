@@ -8,6 +8,5 @@ package cn.gov.frame.beans.factory;
  */
 public interface BeanFactory {
 
-
    Object getBean(String name);
 }
