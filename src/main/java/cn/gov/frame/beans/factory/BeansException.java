@@ -12,4 +12,7 @@ public class BeansException extends RuntimeException {
     public BeansException(String message, Exception e) {
 
     }
+
+    public BeansException(String message) {
+    }
 }
